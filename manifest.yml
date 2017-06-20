@@ -1,0 +1,6 @@
+---
+applications:
+ - name: credito-pessoal-api
+   random-route: false
+   host: credito-pessoal-api
+   memory: 128M
